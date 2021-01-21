@@ -5,6 +5,10 @@
   <img src ="https://aleen42.github.io/badges/src/github.svg">
 </div>
 
+## What's the repo about?
+
+This repo contains some sample codes to get started with php. It goes over topics like classes, forms, get and post methods and so on.
+
 ## Useful websites :
 1.) Tutorials Point
 2.) Free Code Camp
